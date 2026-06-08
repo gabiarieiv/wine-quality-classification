@@ -69,3 +69,10 @@ Variável alvo:
 ```python
 quality_binary
 
+# Impacto Estratégico do Projeto
+
+A aplicação de Machine Learning em processos produtivos permite transformar dados operacionais em vantagem competitiva.
+
+No contexto da indústria vinícola, modelos preditivos podem auxiliar na padronização da qualidade, redução de desperdícios e melhoria contínua dos produtos.
+
+O projeto demonstra como a combinação entre análise de dados e inteligência artificial pode apoiar decisões mais assertivas e orientadas por dados.

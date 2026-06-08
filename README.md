@@ -69,6 +69,3 @@ Variável alvo:
 ```python
 quality_binary
 
-# 👩‍💻 Autor
-
-Projeto desenvolvido por Gabriela Jorge Vieira durante o Tech Challenge da pós-graduação em Data Analytics da FIAP.
